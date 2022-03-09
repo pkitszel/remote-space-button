@@ -28,7 +28,7 @@ Most probably you will need to adjust firewall rules to allow access to port 201
 ### Build C app ###
 Install your preffered C toolchain (fast and easy in case of MinGW).
 
-`gcc winclick.c -o winclick.exe`
+`gcc src-c/winclick.c -o winclick.exe`
 
 Both executable files make together whole application.
 
